@@ -1,0 +1,17 @@
+{
+  "name": "superbchat-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon server.js"
+  },
+  "author": "Rajit Kuthiala",
+  "license": "ISC",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "socket.io": "^4.5.1"
+  }
+}
